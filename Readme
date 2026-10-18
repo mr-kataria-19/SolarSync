@@ -1,0 +1,37 @@
+# SolarSync ☀️
+
+SolarSync is a smart building energy management project that optimizes
+solar energy utilization, battery storage, and flexible HVAC loads.
+
+## Objectives
+- Increase solar self-consumption.
+- Reduce electricity costs and peak grid demand.
+- Optimize battery charging and discharging.
+- Explore flexible HVAC scheduling.
+
+## Technology
+- Python
+- NumPy
+- Pandas
+- PuLP
+- Matplotlib
+- Mixed-Integer Linear Programming (MILP)
+
+## Current Status
+The project currently uses a Python-based optimization model and
+synthetic building energy data.
+
+## Future Improvements
+- Improve energy optimization.
+- Add a building thermal model.
+- Implement rolling-horizon control.
+- Develop a visualization dashboard.
+- Evaluate performance under different operating conditions.
+
+## Data
+The current prototype uses synthetic data for simulation.
+Results do not represent verified real-world energy savings.
+
+## Disclaimer
+SolarSync is a research and development prototype.
+It does not currently control real building equipment.
